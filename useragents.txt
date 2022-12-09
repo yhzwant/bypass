@@ -1,0 +1,1228 @@
+!Amyntas (https://github.com/Nexuzzzzz/Amyntas)
+!Susie (http://www.sync2it.com/susie)
+ABACHOBot
+ASTEL/1.0/J-0511.00/c10/smel
+AU-MIC/1.1.4.0 20722 MMP/2.0
+Accoona-AI-Agent/1.1.1 (crawler at accoona dot com)
+Accoona-AI-Agent/1.1.2
+Accoona-AI-Agent/1.1.2 (aicrawler at accoonabot dot com)
+AmigaVoyager/2.95 (compatible; MC680x0; AmigaOS)
+AmigaVoyager/2.95 (compatible; MC680x0; AmigaOS; SV1)
+AmigaVoyager/3.2 (AmigaOS/MC680x0)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+BaiDuSpider
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+Baiduspider+(+http://www.baidu.com/search/spider_jp.html)
+BenQ-CF61/1.00/WAP2.0/MIDP2.0/CLDC1.0 UP.Browser/6.3.0.4.c.1.102 (GUI) MMP/2.0
+BillyBobBot/1.0 (+http://www.billybobbot.com/crawler/)
+Bimbot/1.0
+BinGet/1.00.A (http://www.bin-co.com/php/scripts/load/)
+BlackBerry7100i/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/103
+BlackBerry7130e/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/104
+BlackBerry7250/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry8110/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/118
+BlackBerry8130/4.5.0.89 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/106
+BlackBerry8300/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0
+BlackBerry8320/4.3.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry8320/4.5.0.188 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/106
+BlackBerry8703e/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8820/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8830/4.2.2 Profile/MIDP-2.0 Configuration/CLOC-1.1 VendorID/105
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9000/5.0.0.93 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
+BlackBerry9630/4.7.1.40 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9650/5.0.0.732 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlitzBOT@tricus.com (Mozilla compatible)
+BlitzBOT@tricus.net (Mozilla compatible)
+Bloglines/3.0-rho (http://www.bloglines.com; 3 subscribers)
+Bloglines/3.1 (http://www.bloglines.com)
+Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BrowserEmulator/0.9 see http://dejavu.org
+CERN-LineMode/2.15
+CHAOLEEMozilla/5.5 (Windows; U; Windows NT 6.5; en-US; rv:1.9.2.25.16.6.12) Gecko/20111212.16062012 Firefox/3.6.25-19072012bn
+CHUTIEUMozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.13) Gecko/20060411
+CLEEB410Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/0.4.154.33 Safari/525.19.410.09.2012_AMZ-CHAOLEE-BOOOKS.410.WWWs
+CNDMozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/125.2 (KHTML, like Gecko) Safari/125.8-CND_BN_03082012_4
+CSE HTML Validator Lite Online (http://online.htmlvalidator.com/php/onlinevallite.php)
+CSSCheck/1.2.2
+CatchBot/1.0;  http://www.catchbot.com
+CatchBot/1.0; +http://www.catchbot.com
+CatchBot/2.0; +http://www.catchbot.com
+China Local Browser 2.6
+Chrome/15.0.860.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/15.0.860.0
+ClariaBot/1.0
+Cocoal.icio.us/1.0 (v38) (Mac OS X; http://www.scifihifi.com/cocoalicious)
+Cocoal.icio.us/1.0 (v40) (Mac OS X; http://www.scifihifi.com/cocoalicious)
+Cocoal.icio.us/1.0 (v43) (Mac OS X; http://www.scifihifi.com/cocoalicious)
+Comos/0.9_(robot@xyleme.com)
+ConveraCrawler/0.9 (+http://www.authoritativeweb.com/crawl)
+ConveraCrawler/0.9d ( http://www.authoritativeweb.com/crawl)
+ConveraCrawler/0.9d (+http://www.authoritativeweb.com/crawl)
+ConveraCrawler/0.9e (+http://ews.converasearch.com/crawl.htm)
+Covario-IDS/1.0 (Covario; http://www.covario.com/ids; support at covario dot com)
+Crawler@alexa.com
+Cricket-A200/1.0 UP.Browser/6.3.0.7 (GUI) MMP/2.0
+Cricket-A310/1.0 UP.Browser/6.3.0.7 (GUI) MMP/2.0
+Cricket-A410/1.0 Polaris/v6.17
+Cyberdog/2.0 (Macintosh; 68k)
+Cyberdog/2.0 (Macintosh; PPC)
+Cynthia 1.0
+DataCha0s/2.0
+DataparkSearch/4.35 ( http://www.dataparksearch.org/)
+DataparkSearch/4.35-02122005 ( http://www.dataparksearch.org/)
+DataparkSearch/4.36 ( http://www.dataparksearch.org/)
+DataparkSearch/4.37-23012006 ( http://www.dataparksearch.org/)
+DeineMudderOS 07 SpywareBrowser
+DiamondBot
+Dillo/0.6.4
+Dillo/0.7.3
+Dillo/0.8.3
+Dillo/0.8.5
+Dillo/0.8.5-i18n-misc
+Dillo/0.8.6
+Dillo/0.8.6-i18n-misc
+Dillo/2.0
+DoCoMo/1.0/N503is/c10
+DoCoMo/1.0/P502i/c10 (Google CHTML Proxy/1.0)
+DoCoMo/2.0 SH901iC(c100;TB;W24H12)
+DomainsDB.net MetaCrawler v.0.9.7c (http://domainsdb.net/)
+DonutP; Windows98SE
+Dooble/0.07 (de_CH) WebKit
+Dorado WAP-Browser/1.0.0
+DotBot/1.0.1 (http://www.dotnetdotcom.org/#info, crawler@dotnetdotcom.org)
+Dr.Web (R) online scanner: http://online.drweb.com/
+Dragonfly File Reader
+ELinks (0.11.1; Linux 2.4.31 i686)
+ELinks (0.11.3; Linux 2.6.22-gentoo-r9 i686; 80x40)
+ELinks (0.11.3; Linux 2.6.23-gentoo-r6 i686; 128x48)
+ELinks (0.11.3; Linux 2.6.23-hardened-r4 i686; 132x25)
+ELinks (0.11.3; Linux 2.6.23-hardened-r4 i686; 166x55)
+ELinks (0.4.3; NetBSD 3.0.2PATCH sparc64; 141x19)
+ELinks (0.4.3; NetBSD 3.0.2_PATCH sparc64; 126x14)
+ELinks (0.4.3; NetBSD 3.0.2_PATCH sparc64; 143x45)
+ELinks (0.4.3; NetBSD 3.0.2_PATCH sparc64; 80x24)
+ELinks (0.4.3; NetBSD 3.0.2_PATCH sparc64; 80x25)
+ELinks (0.4pre5; Linux 2.6.10-ac7 i686; 80x33)
+ELinks (0.4pre6; Linux 2.2.19ext3 alpha; 80x25)
+ELinks/0.10.3 (textmode; Linux; 123x38-2)
+ELinks/0.10.3 (textmode; Linux; 80x24-2)
+ELinks/0.10.4-7-debian (textmode; Linux 2.6.11 i686; 89x23-2)
+ELinks/0.10.4-7-debian (textmode; Linux 2.6.16-hardened-r10-pandora i686; 80x24-2)
+ELinks/0.10.5 (textmode; FreeBSD 4.11-STABLE i386; 80x22-2)
+ELinks/0.10.6 (textmode; Linux 2.6.12-oci6.mdk-i586-up-1GB i686; 104x37-2)
+ELinks/0.10.6-1ubuntu3-debian (textmode; Linux 2.6.15-27-686 i686; 197x64-2)
+ELinks/0.10.6-1ubuntu3-debian (textmode; Linux 2.6.15-27-686 i686; 96x28-2)
+ELinks/0.11.0 (textmode; Linux; 100x24-2)
+ELinks/0.11.1 (textmode; FreeBSD 6.1-RELEASE i386; 212x61-2)
+ELinks/0.11.1 (textmode; Linux 2.4.31 i686; 128x48-3)
+ELinks/0.11.1 (textmode; Linux 2.6.12-oci6.mdk-i586-up-1GB i686; 127x43-2)
+ELinks/0.11.1 (textmode; Linux 2.6.12-oci6.mdk-i586-up-1GB i686; 80x24-2)
+ELinks/0.11.1 (textmode; Linux 2.6.12-oci6.mdk-i586-up-1GB i686; 97x33-2)
+ELinks/0.11.1 (textmode; Linux 2.6.12-oci6.mdk-i586-up-1GB i686; 98x33-2)
+ELinks/0.11.1 (textmode; Linux; 122x44-2)
+ELinks/0.11.1-1-debian (textmode; Linux 2.6.18-2-k7 i686; 142x42-2)
+ELinks/0.11.1-1.2-debian (textmode; Linux 2.6.15-1-k7 i686; 80x38-2)
+ELinks/0.11.1-1.2-debian (textmode; Linux 2.6.8-3-386 i686; 80x24-2)
+ELinks/0.11.1-1.2etch1-debian (textmode; Linux 2.6.24.2-grsec i686; 80x24-2)
+ELinks/0.11.1-1.2ubuntu2.1-debian (textmode; Linux 2.6.20-15-generic i686; 80x24-2)
+ELinks/0.11.1-1.2ubuntu2.2-debian (textmode; Linux 2.6.20-16-generic i686; 80x24-2)
+ELinks/0.11.1-1.4-debian (textmode; Linux 2.6.21-1-686 i686; 198x78-3)
+ELinks/0.11.1-1.4-debian (textmode; Linux 2.6.22-1-amd64 x86_64; 160x64-2)
+ELinks/0.11.1-1.4-debian (textmode; Linux 2.6.22-2-686 i686; 64x24-2)
+ELinks/0.11.1-1.5ubuntu1-debian (textmode; Linux 2.6.22-14-generic i686; 80x24-2)
+ELinks/0.11.1-1.5ubuntu1-debian (textmode; Linux 2.6.22-14-generic i686; 80x24-3)
+ELinks/0.11.1-1.5ubuntu1-debian (textmode; Linux 2.6.22-14-server i686; 157x41-2)
+ELinks/0.11.2 (textmode; FreeBSD 6.2-RELEASE i386; 100x35-2)
+ELinks/0.11.2 (textmode; FreeBSD 6.3-RELEASE-p2 i386; 126x44-2)
+ELinks/0.11.2 (textmode; Linux 2.6.17.13 i686; 80x25-2)
+ELinks/0.11.3 (textmode; Darwin 10.2.0 i386; 80x24-2)
+ELinks/0.11.3 (textmode; Darwin 10.7.0 i386; 236x64-2)
+ELinks/0.11.3 (textmode; Linux 2.6.23-ARCH x86_64; 141x29-2)
+ELinks/0.11.3 (textmode; Linux; 80x24-2)
+ELinks/0.11.3-5ubuntu2 (textmode; Debian; Linux 2.6.24-16-generic i686; 80x24-2)
+ELinks/0.11.3-5ubuntu2 (textmode; Debian; Linux 2.6.24-19-generic i686; 181x51-2)
+ELinks/0.11.3-5ubuntu2 (textmode; Debian; Linux 2.6.24-19-generic i686; 80x24-2)
+ELinks/0.11.3-8ubuntu3 (textmode; Debian; Linux 2.6.27-11-generic i686; 80x25-2)
+ELinks/0.11.3-8ubuntu3 (textmode; Debian; Linux 2.6.27-9-generic i686; 205x56-2)
+ELinks/0.11.4 (textmode; Linux 2.6.26-2-amd64 x86_64; 158x62-2)
+ELinks/0.11.4 (textmode; Linux; 80x24-2)
+ELinks/0.11.4 (textmode;Linux;80x24-2)
+ELinks/0.11.4-3 (textmode; Debian; Linux 2.6.26-1-sparc64 sparc64; 160x64-2)
+ELinks/0.11.4-3-lite (textmode; Debian; Linux 2.6.26-1-686 i686; 80x24-2)
+ELinks/0.11.4rc0 (textmode; Linux 2.6.20-16-server i686; 102x34-2)
+ELinks/0.11.4rc1 (textmode; Darwin 8.11.0 Power Macintosh; 169x55-3)
+ELinks/0.11.4rc1 (textmode; FreeBSD 7.0-RELEASE i386; 80x25-2)
+ELinks/0.11.4rc1 (textmode; FreeBSD 7.1-RELEASE i386; 80x25-2)
+ELinks/0.11.6 (textmode; Linux 2.2.26 i686; 119x51-2)
+ELinks/0.11.6 (textmode; Linux 2.6.30-ARCH i686; 128x48-2)
+ELinks/0.11.7 (textmode; FreeBSD 8.0-RC1 i386; 80x49-2)
+ELinks/0.11.7 (textmode; Linux 2.6.32-fw3 i686; 143x53-2)
+ELinks/0.12.GIT (textmode; Linux 2.6.21-1-686 i686; 198x78-3)
+ELinks/0.12pre1.GIT
+ELinks/0.12pre2 (textmode; Linux; 168x43-2)
+ELinks/0.12pre5 (textmode; Linux; 157x60-2)
+ELinks/0.12~pre2.dfsg0-1ubuntu1 (textmode; Debian; Linux 2.6.28-13-generic i686; 114x36-2)
+ELinks/0.12~pre2.dfsg0-1ubuntu1 (textmode; Debian; Linux 2.6.28-14-generic i686; 120x36-2)
+ELinks/0.12~pre2.dfsg0-1ubuntu1 (textmode; Debian; Linux 2.6.28-14-generic i686; 180x56-2)
+ELinks/0.12~pre2.dfsg0-1ubuntu1 (textmode; Debian; Linux 2.6.28-15-generic i686; 80x24-3)
+ELinks/0.12~pre2.dfsg0-1ubuntu1 (textmode; Debian; Linux 2.6.28-15-generic x86_64; 207x60-2)
+ELinks/0.12~pre5-1-lite (textmode; Debian; Linux 2.6.31-1+e517a5e9 x86_64; 100x45-2)
+ELinks/0.12~pre5-8 (textmode; Debian; Linux 3.4.0-8.dmz.1-liquorix-amd64 x86_64; 67x35-3)
+ELinks/0.13.GIT (textmode; Linux 2.6.22-2-686 i686; 148x68-3)
+ELinks/0.13.GIT (textmode; Linux 2.6.22-3-686 i686; 104x48-2)
+ELinks/0.13.GIT (textmode; Linux 2.6.22-3-686 i686; 84x37-2)
+ELinks/0.13.GIT (textmode; Linux 2.6.24-1-686 i686; 138x60-2)
+ELinks/0.13.GIT (textmode; Linux 2.6.24-1-686 i686; 175x65-2)
+ELinks/0.13.GIT (textmode; Linux 2.6.26-rc7.1 i686; 119x68-3)
+ELinks/0.13.GIT (textmode; Linux 2.6.27-rc6.git i686; 175x65-3)
+ELinks/0.13.GIT (textmode; Linux 2.6.29 i686; 119x51-2)
+ELinks/0.9.3 (textmode; Linux 2.6.11 i686; 79x24)
+ELinks/0.9.3 (textmode; Linux 2.6.11-auditor-10 i686; 80x24)
+ELinks/0.9.3 (textmode; Linux 2.6.9-kanotix-8 i686; 127x41)
+Elinks (0.3.2; Linux 2.4.20-13.8 i686)
+Elinks (textmode)
+Emacs-W3/4.0pre.46 URL/p4.0pre.46 (i386--freebsd; X11)
+EmeraldShield.com WebBot (http://www.emeraldshield.com/webbot.aspx)
+Enigma Browser
+EsperanzaBot(+http://www.esperanza.to/bot/)
+Eurobot/1.0 (http://www.ayell.eu)
+EvaalSE - bot@evaal.com
+Exabot/2.0
+FARK.com link verifier
+FAST Enteprise Crawler/6 (www dot fastsearch dot com)
+FAST Enterprise Crawler 6 / Scirus scirus-crawler@fast.no; http://www.scirus.com/srsapp/contactus/
+FAST Enterprise Crawler 6 used by Schibsted (webcrawl@schibstedsok.no)
+FAST-WebCrawler/3.6
+FAST-WebCrawler/3.6 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)
+FAST-WebCrawler/3.6/FirstPage (atw-crawler at fast dot no;http://fast.no/support/crawler.asp)
+FAST-WebCrawler/3.7 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)
+FAST-WebCrawler/3.7/FirstPage (atw-crawler at fast dot no;http://fast.no/support/crawler.asp)
+FAST-WebCrawler/3.8 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)
+FAST-WebCrawler/3.x Multimedia
+FAST-WebCrawler/3.x Multimedia (mm dash crawler at fast dot no)
+FavIconizer
+FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html;
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=13645798864011762265)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=1992026586303346733)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=375807642710480585)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=8639390370582375869)
+Feliz - Mixcat Crawler (+http://mixcat.com)
+Firefox/2.0b1 SeaMonkey/1.1.1 Mozilla/5.0 Gecko/20061101
+FyberSpider
+FyberSpider (+http://www.fybersearch.com/fyberspider.php)
+GODzilla/6.0 (X11; Knoppix x86_128; rv:16.0) Gecko/20140101 Firefox/33.3.13
+GSiteCrawler/v1.06 rev. 251 (http://gsitecrawler.com/)
+GSiteCrawler/v1.12 rev. 260 (http://gsitecrawler.com/)
+GSiteCrawler/v1.20 rev. 273 (http://gsitecrawler.com/)
+Gaisbot/3.0 (jerry_wu@openfind.com.tw; http://gais.cs.ccu.edu.tw/robot.php)
+Gaisbot/3.0+(robot05@gais.cs.ccu.edu.tw;+http://gais.cs.ccu.edu.tw/robot.php)
+Gaisbot/3.0+(robot06@gais.cs.ccu.edu.tw;+http://gais.cs.ccu.edu.tw/robot.php)
+Galaxy/1.0 [en] (Mac OS X 10.5.6)
+Galaxy/1.0 [en] (Mac OS X 10.5.6; U; en)
+GalaxyBot/1.0 (http://www.galaxy.com/galaxybot.html)
+Gigabot/1.0
+Gigabot/2.0
+Gigabot/2.0 (http://www.gigablast.com/spider.html)
+Gigabot/2.0/gigablast.com/spider.html
+Gigabot/3.0 (http://www.gigablast.com/spider.html)
+Godzilla/5.4 Firefoxy (XU; Pinguin i353; en-US; rv:1.9.8.4) Gecko/10214711 TOHO/0.8.1.5-3tos
+Godzilla/5.4 Firefoxy (XU; Pinguin i353; en-US; rv:1.9.8.4) Gecko/10217002 TOLinuxHO/1.0.0.2-3tos
+Godzilla/5.4 Firefoxy (XU; Pinguin i353; en-US; rv:1.9.8.4) Lizard/10214711 TOHO/0.8.1.5-3tos
+Googlebot-Image/1.0
+Googlebot-Image/1.0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),
+Googlebot/2.1 (+http://www.google.com/bot.html)
+Googlebot/2.1 (+http://www.googlebot.com/bot.html)
+Googlebot/2.1 (http://www.googlebot.com/bot.html)
+Googlebot/2.1 (http://www.googlebot.com/bot.html),
+GreatNews/1.0
+Gregarius/0.5.2 (+http://devlog.gregarius.net/docs/ua)
+GurujiBot/1.0 (+http://www.guruji.com/WebmasterFAQ.html)
+GurujiBot/1.0 (+http://www.guruji.com/en/WebmasterFAQ.html)
+HTC-P4600/1.2 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) UP.Link/6.3.1.17.0
+HTC-ST7377/1.59.502.3 (67150) Opera/9.50 (Windows NT 5.1; U; en) UP.Link/6.3.1.17.0
+HTC_Dream Mozilla/5.0 (Linux; U; Android 1.5; en-ca; Build/CUPCAKE) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
+HTC_HD2_T8585 Opera/9.7 (Windows NT 5.1; U; en)
+HTC_HD2_T8585 Opera/9.70 (Windows NT 5.1; U; de)
+HTC_Touch_3G Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+HTC_Touch_HD_T8282 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+HTC_Touch_Pro_T7272 Opera/9.50 (Windows NT 5.1; U; en)
+HTMLParser/1.6
+Hab mit einigen Browsern schon nen Treffer gelandet :D
+HappyFunBot/1.1 ( http://www.happyfunsearch.com/bot.html)
+HotJava/1.0.1/JRE1.1.x
+HotJava/1.1.2 FCS
+HÃ¤ gibtsa nicht (compatible; MSIE 8.0; Wildsau; Trident/4.0; GTB6.5; GTB6.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; GTB6.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3)
+IBM WebExplorer /v0.94
+IBrowse/2.3 (AmigaOS 3.9)
+IBrowse/2.4 (AmigaOS 3.9; 68K)
+IBrowse/2.4demo (AmigaOS 3.9; 68K)
+IRLbot/2.0 ( http://irl.cs.tamu.edu/crawler)
+IRLbot/2.0 (+http://irl.cs.tamu.edu/crawler)
+IRLbot/2.0 (compatible; MSIE 6.0; http://irl.cs.tamu.edu/crawler)
+IRLbot/3.0 (compatible; MSIE 6.0; http://irl.cs.tamu.edu/crawler)
+IRLbot/3.0 (compatible; MSIE 6.0; http://irl.cs.tamu.edu/crawler/)
+InfoWizards Reciprocal Link System PRO - (http://www.infowizards.com)
+Internet ExplÃ¶rrer 0.5 (fully uncompatible; MSIE 0.5; DOS 1.0)
+Internet ScreenBrowser 3.0 (Nintendo Wii; WiiOS 3.4)
+Iron/2.0.168.0 (Windows; U; Windows NT 6.1; de-DE) AppleWebKit/530.1 (KHTML, like Gecko)
+IssueCrawler
+J-PHONE/5.0/V801SA/SN123456789012345 SA/0001JP Profile/MIDP-1.0
+Java/1.4.1
+Java/1.4.1-p3
+Java/1.4.1_01
+Java/1.4.1_01a
+Java/1.4.1_02
+Java/1.4.1_03
+Java/1.4.1_04
+Java/1.4.2
+Java/1.4.2_01
+Java/1.4.2_03
+Java/1.4.2_04
+Java/1.4.2_05
+Java/1.4.2_07
+Java/1.4.2_08
+Java/1.4.2_09
+Java/1.4.2_10
+Java/1.4.2_11
+Java/1.5.0
+Java/1.5.0_01
+Java/1.5.0_02
+Java/1.5.0_03
+Java/1.5.0_04
+Java/1.5.0_05
+Java/1.5.0_06
+Java/1.5.0_08
+Java/1.5.0_11
+Java/1.6.0-beta
+Java/1.6.0_02
+Java/1.6.0_03
+Java/1.6.0_04
+Java/1.6.0_11
+Java/1.6.0_12
+Java/1.6.0_13
+Java/1.6.0_26
+Java1.2.1
+Java1.2.2
+Java1.2.2-JDeveloper
+Java1.3.0
+Java1.3.1
+Java1.3.1_04
+Java1.3.1_06
+Java1.4.0
+Java1.4.0_01
+Java1.4.0_02
+Java1.4.0_03
+Java1.4.2_03
+Jaxified Bot (+http://www.jaxified.com/crawler/)
+Jigsaw/2.2.5 W3C_CSS_Validator_JFouffa/2.0
+Jyxobot/1
+KDDI-KC31 UP.Browser/6.2.0.5 (GUI) MMP/2.0
+L.webis/0.87 (http://webalgo.iit.cnr.it/index.php?pg=lwebis)
+LARBIN-EXPERIMENTAL efp@gmx.net
+LG-CT810/V10x IEMobile/7.11 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+LG-GS290/V100 Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+LG-GT400/v10a Browser/Teleca-Q7.1 MMS/LG-MMS-V1.0/1.2 MediaPlayer/LGPlayer/1.0 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+LG-LG260 POLARIS-LG260/2.0 MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+LG-LX550 AU-MIC-LX550/2.0 MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+LG/KU990i/v10a Browser/Obigo-Q05A/3.6 MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+LGE-LG290C/1.0[TF268435459307028557000000012602392946] UP.Browser/6.2.3.8 (GUI) MMP/2.0
+LGE-LG290C/1.0[TF268435459307087980000000012298546358] UP.Browser/6.2.3.8 (GUI) MMP/2.0
+LGE-MX380/1.0 UP.Browser/6.2.3.9 (GUI) MMP/2.0
+LGE-VM510 NetFront/3.5.1 (GUI) MMP/2.0
+LapozzBot/1.4 (+http://robot.lapozz.com)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.55-324-g9365f23; WebKit 4.5.2/4.5.2)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.55-330-g3821e8c; WebKit 4.5.2/4.5.2)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.55-381-g3919184; WebKit 4.5.2/4.5.2)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.55-383-g7446455; WebKit 4.5.2/4.5.2)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.55-393-g97b9bb2; WebKit 4.5.2/4.5.2)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.70-325-gb4f750b; WebKit 4.7.1/4.7.1)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.70-367-g174858a; WebKit 4.7.1/4.7.1)
+LeechCraft (X11; U; Linux; ru_RU) (LeechCraft/Poshuku 0.3.95-1-g84cc6b7; WebKit 4.7.1/4.7.1)
+LexxeBot/1.0 (lexxebot@lexxe.com)
+Linguee Bot (http://www.linguee.com/bot; bot@linguee.com)
+Link Valet Online 1.1
+Link Validity Check From: http://www.w3dir.com/cgi-bin (Using: Hot Links SQL by Mrcgiguy.com)
+LinkExaminer/1.01 (Windows)
+LinkWalker
+LinkWalker/2.0
+Links (0.96; Linux 2.4.20-18.7 i586)
+Links (0.96; OpenBSD 3.0 sparc)
+Links (0.98; Darwin 6.0 Power Macintosh)
+Links (0.98; Darwin 6.6 Power Macintosh)
+Links (0.98; Unix)
+Links (0.99; Darwin 10.7.0 i386; 236x64)
+Links (1.00pre12; Linux 2.6.14.2.20051115 i686; 80x24) (Debian pkg 0.99+1.00pre12-1)
+Links (1.00pre12; Linux 2.6.8-3-k7 i686; 123x36) (Debian pkg 0.99+1.00pre12-1)
+Links (1.00pre20; Linux 2.6.22-2-686 i686; 80x24) (Debian pkg 1.00~pre20-0.1)
+Links (1.00pre20; Linux 2.6.23.1-rt4 i686; 155x56) (Debian pkg 1.00~pre20-0.1)
+Links (1.00pre3; SunOS 5.9 i86pc; 80x24)
+Links (2.0; FreeBSD 4.7-STABLE i386; 114x45)
+Links (2.1; Linux 2.6.18-gentoo-r6 x86_64; 80x24)
+Links (2.1pre11; Linux 2.6.5-gentoo i686; 122x40)
+Links (2.1pre14; IRIX64 6.5 IP27; 145x54)
+Links (2.1pre15; FreeBSD 5.3-RELEASE i386; 196x84)
+Links (2.1pre15; FreeBSD 5.4-STABLE i386; 158x58)
+Links (2.1pre15; Linux 2.4.26 i686; 158x61)
+Links (2.1pre15; Linux 2.4.29 i586; 80x25)
+Links (2.1pre15; Linux 2.6.14.4 i686; 128x48)
+Links (2.1pre15; Linux 2.6.9-19 i686; 80x24)
+Links (2.1pre15; Linux 2.6.9-19 i686; x)
+Links (2.1pre15; SunOS 5.8 sun4m; 80x24)
+Links (2.1pre16; Linux 2.6.11.12-intel-domainu i686; 80x24)
+Links (2.1pre16; Linux 2.6.8-3-k7 i686; 123x36)
+Links (2.1pre17; Linux 2.6.12.2 i686; x)
+Links (2.1pre18; Linux 2.4.31 i686; 100x37)
+Links (2.1pre18; Linux 2.6.17-gentoo-r8 i686; 80x24)
+Links (2.1pre19; Linux 2.6.15-gentoo-r1 x86_64; 80x24)
+Links (2.1pre19; NetBSD 2.1_STABLE sparc64; 145x54)
+Links (2.1pre20; FreeBSD 4.11-STABLE i386; 80x22)
+Links (2.1pre20; Linux 2.6.16-gentoo-r12 i686; 125x50)
+Links (2.1pre20; NetBSD 2.1_STABLE i386; 145x54)
+Links (2.1pre20; SunOS 5.10 sun4u; 80x22)
+Links (2.1pre23; Linux 2.6.17.13 i686; 80x25)
+Links (2.1pre23; Linux 2.6.18-no2 i686; 80x23)
+Links (2.1pre23; Linux 2.6.24.7-1.5 i686; 209x49)
+Links (2.1pre26; Linux 2.6.14-hsc0ds armv5l; 236x57)
+Links (2.1pre26; Linux 2.6.18-5-686 i686; x)
+Links (2.1pre28; Linux 2.6.22-14-generic i686; 50x68)
+Links (2.1pre28; Linux 2.6.22-14-generic i686; x)
+Links (2.1pre28; Linux 2.6.23-gentoo-r3 i686; x)
+Links (2.1pre28; Linux 2.6.24.5 i686; 80x25)
+Links (2.1pre30; Linux 2.6.18-ck1-dyne i686; x)
+Links (2.1pre31; Linux 2.6.21-omap1 armv6l; x)
+Links (2.1pre31; Linux 2.6.23.12 i686; 134x36)
+Links (2.1pre31; Linux 2.6.24.2 i686; x)
+Links (2.1pre32; Linux 2.6.24-24-generic i686; x)
+Links (2.1pre33; Darwin 8.11.0 Power Macintosh; 169x55)
+Links (2.1pre33; Darwin 8.11.0 Power Macintosh; 170x55)
+Links (2.1pre33; Darwin 8.11.0 Power Macintosh; x)
+Links (2.1pre33; Linux 2.6.24-1-686 i686; 80x23)
+Links (2.1pre33; Linux 2.6.24-gentoo-r3 i686; 80x28)
+Links (2.1pre37; Linux 2.6.26-1-686 i686; x)
+Links (2.1pre37; Linux 2.6.26-2-686 i686; 182x78)
+Links (2.1pre37; Linux 2.6.26.3-grsec-pjwstk-02 x86_64; 80x24)
+Links (2.1pre9; Linux 2.4.32 i686; x)
+Links (2.1pre; Linux)
+Links (2.2; FreeBSD 8.1-RELEASE i386; 196x84)
+Links (2.2; GNU/kFreeBSD 6.3-1-486 i686; 80x25)
+Links (2.2; Linux 2.6.24.4-desktop586-3mnb i686; 141x19)
+Links (2.2; Linux 2.6.24.4-desktop586-3mnb i686; x)
+Links (2.2; Linux 2.6.25-gentoo-r9 sparc64; 166x52)
+Links (2.2; Linux 2.6.27-hardened-r7 x86_64; x)
+Links (2.2; Linux 2.6.28-11-server i686; 80x24)
+Links (2.2; Linux 2.6.28-14-generic i686; 80x24)
+Links (2.2; Linux 2.6.28-gentoo-r5 i686; x)
+Links (2.2; Linux 2.6.30-ARCH x86_64; 160x50)
+Links (2.2; Linux 2.6.32-fw3 i686; 143x53)
+Links (2.2; Linux 2.6.32-gentoo-r6 x86_64; 129x42)
+Links (2.2; Linux 3.6.9-1.el6.elrepo.x86_64 x86_64; 168x44)
+Links (2.2; NetBSD 5.0 i386; 80x25)
+Links (2.2; OpenBSD 4.8 i386; x)
+Links (2.3pre1; Linux 2.6.32-5-amd64 x86_64; x)
+Links (2.3pre1; Linux 2.6.35-22-generic i686; 177x51)
+Links (2.7; Linux 3.5.0-17-generic x86_64; GNU C 4.7.1; text)
+Links (2.7; Linux 3.5.0-24-generic x86_64; GNU C 4.7.1; x)
+Links (2.7; Linux 3.6.11-gentoo x86_64; GNU C 4.5.4; x)
+Links (2.7; Linux 3.7-trunk-amd64 x86_64; GNU C 4.7.1; x)
+Links (2.7; Linux 3.7.5-1-ARCH x86_64; GNU C 4.7.2; x)
+Links (2.7; Linux 3.7.9-2-ARCH x86_64; GNU C 4.7.1; text)
+Links (2.xpre7; Linux 2.4.18 i586; x)
+Links (6.9; Unix 6.9-astral sparc; 80x25)
+Links 2.0 (http://gossamer-threads.com/scripts/links/)
+Linux i686; rv:27.0) Gecko/20100101 Firefox/27.0
+Lynx (textmode)
+Lynx/2.8.1pre.9 libwww-FM/2.14
+Lynx/2.8.2rel.1 libwww-FM/2.14
+Lynx/2.8.3dev.6 libwww-FM/2.14
+Lynx/2.8.3dev.8 libwww-FM/2.14FM
+Lynx/2.8.3rel.1 libwww-FM/2.14
+Lynx/2.8.3rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.5a
+Lynx/2.8.3rel.1 libwww-FM/2.14FM
+Lynx/2.8.4dev.7 libwww-FM/2.14
+Lynx/2.8.4rel.1
+Lynx/2.8.4rel.1 libwww-FM/2.14
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6b
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6c
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6c human-guided@mapfeatures.net
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6j
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7a
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7c
+Lynx/2.8.5dev.16
+Lynx/2.8.5dev.16 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7a
+Lynx/2.8.5dev.2 libwww-FM/2.14
+Lynx/2.8.5dev.3 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6a
+Lynx/2.8.5rel.1 libwww-FM/2.14
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/0.8.12
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/1.0.16
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/1.4.4
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7d
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7e
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7l
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7m
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8a
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8b
+Lynx/2.8.5rel.1 libwww-FM/2.14FM
+Lynx/2.8.5rel.2 libwww-FM/2.14
+Lynx/2.8.5rel.2 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7d
+Lynx/2.8.5rel.3 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7d
+Lynx/2.8.5rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7d-p1
+Lynx/2.8.5rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8h
+Lynx/2.8.5rel.5 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7d
+Lynx/2.8.5rel.5 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7i
+Lynx/2.8.5rel.5 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8d
+Lynx/2.8.5rel.5 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8e
+Lynx/2.8.6dev.11 libwww-FM/2.14
+Lynx/2.8.6dev.15 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7d
+Lynx/2.8.6rel.4  libwww-FM/2.14
+Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/1.6.3
+Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8d
+Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8g
+Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8k
+Lynx/2.8.6rel.5 libwww-FM/2.14
+Lynx/2.8.6rel.5 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8b
+Lynx/2.8.6rel.5 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8g
+Lynx/2.8.6rel.5 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/1.0.0a
+Lynx/2.8.7dev.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8d
+Lynx/2.8.7dev.9 libwww-FM/2.14
+Lynx/2.8.7pre.5 libwww-FM/2.14 SSL-MM/1.4.1
+Lynx/2.8.7rel.2 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/1.0.0a
+Lynx/2.8.8dev.3 libwww-FM/2.14 SSL-MM/1.4.1
+MAUI WAP Browser
+MJ12bot/v1.0.5 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.6 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MOT 24.1 _/00.62 UP.Browser/6.2.3.4.c.1.120 (GUI) MMP/2.0
+MOT-A-1C/01.01 UP.Browser/7.0.0.2.c.1.104 (GUI) MMP/2.0 UP.Link/5.1.2.16
+MOT-COOL0/00.62 UP.Browser/6.2.3.4.c.1.128 (GUI) MMP/2.0
+MOT-E398/0E.20.97R MIB/2.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-EX431G/[TF359486041364033384919913852428475] Obigo/Q03C MMP/2.0
+MOT-L6/0A.52.45R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-V3i/08.B4.34R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Link/6.3.0.0.0
+MOT-V3r/08.BD.43R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+MOT-V600/0B.09.38R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+MOT-V620/0E.65.25R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0 UP.Link/6.3.1.12.0
+MOT-V9mm/00.62 UP.Browser/6.2.3.4.c.1.123 (GUI) MMP/2.0
+MOZILLA/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+MSIE 5.14 (Mac_PowerPC)
+MSM7627A/1.0 Android/2.3 gingerbread/2.3.5 Release/11.16.2011 Browser/WebKit533.1 Profile/MIDP-1.0 Configuration/CLDC-1.0
+MSNBOT/0.1 (http://search.msn.com/msnbot.htm)
+MSRBOT
+MSRBOT (http://research.microsoft.com/research/sv/msrbot/)
+MVAClient
+Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+MagpieRSS/0.7 ( http://magpierss.sf.net)
+Mediapartners-Google/2.1
+MetaURI API/2.0  metauri.com
+Microsoft Mozilla Firefox-DRM-edition/1.0 (Windows; U; Windows DRM DELUXE 2.0; de; rv:1) trojaner/DRM2 Microsoft Firefox/1
+Microsoft URL Control - 6.01.9782
+Midori/0.1.1 (X11; Linux i686; U; de) WebKit/532+
+Midori/0.1.1 (X11; Linux; U; de-de) WebKit/532+
+Midori/0.1.10 (X11; Linux i686; U; fr-fr) WebKit/532.1+
+Midori/0.1.20 (X11; Linux i686; U; fr-fr) WebKit/532.1+
+Midori/0.1.4 (X11; Linux; U; en-us) WebKit/532+
+Midori/0.1.5 (X11; Linux; U; it-it) WebKit/532+
+Midori/0.1.6 (X11; Linux; U; de-de) WebKit/532+
+Midori/0.1.6 (X11; Linux; U; en-gb) WebKit/532+
+Midori/0.1.6 (X11; Linux; U; en-us) WebKit/532+
+Midori/0.1.6 (X11; Linux; U; pl-pl) WebKit/532+
+Midori/0.1.7 (X11; Linux x86_64; U; en-us) WebKit/532+
+Midori/0.1.7 (X11; Linux; U; de-de) WebKit/532+
+Midori/0.1.7 (X11; Linux; U; en-us) WebKit/532+
+Midori/0.1.8 (Windows; Windows; U; en-us) WebKit/532+
+Midori/0.1.8 (Windows; Windows; U; fi-fi) WebKit/532+
+Midori/0.1.8 (Windows; Windows; U; fr-fr) WebKit/532+
+Midori/0.1.8 (Windows; Windows; U; it-it) WebKit/532+
+Midori/0.1.8 (X11; Arch Linux x86_64; U; en-us) WebKit/532+
+Midori/0.1.8 (X11; Linux i686; U; fr-ca) WebKit/532+
+Midori/0.1.8 (X11; Linux x86_64; U; en-us) WebKit/532+
+Midori/0.1.8 (X11; Linux x86_64; U; es-es) WebKit/532+
+Midori/0.1.9 (X11; FreeBSD i386; U; en-us) WebKit/532+
+Midori/0.1.9 (X11; Linux i686; U; fr-fr) WebKit/532+
+Midori/0.2 (Windows; U; Windows NT 6.1; en-US) WebKit/531.2+
+Midori/0.2 (Windows; Windows; U; ru-ru) WebKit/531.2+
+Midori/0.2 (X11; FreeBSD; U; en-us) WebKit/531.2+
+Midori/0.2 (X11; Linux; U; zh-cn) WebKit/531.2+
+Midori/0.2.0 (X11; Linux i686; U; de-de) WebKit/531.2+
+Midori/0.2.0 (X11; Linux i686; U; pt-br) WebKit/531.2+
+Midori/0.2.2 (X11; Linux i686; U; fr-ca) WebKit/531.2+
+Midori/0.2.2 (X11; Linux i686; U; ja-jp) WebKit/531.2+
+Mnogosearch-3.1.21
+MobileExplorer/3.00 (Mozilla/1.22; compatible; MMEF300; Amstrad; Gamma)
+Modzilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) 480x640; XV6850; Window Mobile 6.1 Professional;
+MojeekBot/0.2 (archi; http://www.mojeek.com/bot.html)
+Mojoo Robot (http://www.mojoo.com/)
+Moreoverbot/5.00 (+http://www.moreover.com)
+Moreoverbot/5.00 (+http://www.moreover.com; webmaster@moreover.com)
+Moreoverbot/5.1 ( http://w.moreover.com; webmaster@moreover.com) Mozilla/5.0
+Morning Paper 1.0 (robots.txt compliant!)
+Mozilla (X; MasterOS; rv:X) Firefox
+Mozilla 5./0 (compatible) Opera or Gecko
+Mozilla 5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/200770508  Iceweasel/2.0.0.4
+Mozilla/0.6 Beta (Windows)
+Mozilla/0.91 Beta (Windows)
+Mozilla/1.0 (compatible; MSIE 1.0; Windows NT 3.1; Trident/1.0)
+Mozilla/1.0 (compatible; Windows 3.1)
+Mozilla/1.1 (compatible; MSPIE 2.0; Windows CE)
+Mozilla/1.10 [en]  (Compatible;  RISC OS 3.70;  Oregano 1.10)
+Mozilla/1.10 [en] (Compatible; RISC OS 3.70; Oregano 1.10)
+Mozilla/1.22 (X11; U; Linux x86_64; en-US; rv:1.9.1.1) Gecko/20090718 Firefox/3.5.1
+Mozilla/1.22 (compatible; Konqueror/4.3; Linux) KHTML/4.3.5 (like Gecko)
+Mozilla/1.22 (compatible; MSIE 1.5; Windows NT)
+Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)
+Mozilla/1.22 (compatible; MSIE 2.0; Windows 3.1)
+Mozilla/1.22 (compatible; MSIE 2.0; Windows 3.1)Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Avant Browser [avantbrowser.com]; iOpus-I-M; QXW03416; .NET CLR 1.1.4322)
+Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)
+Mozilla/1.22 (compatible; MSIE 2.0d; Windows NT)
+Mozilla/1.22 (compatible; MSIE 5.01; PalmOS 3.0) EudoraWeb 2
+Mozilla/1.22 (compatible; MSIE 5.01; PalmOS 3.0) EudoraWeb 2.1
+Mozilla/1.22 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; OfficeLiveConnector.1.4; OfficeLivePatch.1.3)
+Mozilla/10.0 (NoNameOS; Sickbrowse 8.0.2; U; de)
+Mozilla/13.0 ( ; MSIE 7.0; Windows NT 6.1; Trident/5.0; .NET4.0C; .NET CLR 1.1.4322; .NET4.0C; .NET CLR 1.1.4322)
+Mozilla/13.0 ( ; MSIE 9.0; Windows NT 6.1; Trident/5.0; .NET4.0C; .NET CLR 1.1.4322; .NET4.0C; .NET CLR 1.1.4322)
+Mozilla/13.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; .NET4.0C; .NET CLR 1.1.4322; .NET4.0C; .NET CLR 1.1.4322)
+Mozilla/15.0 (X11; U; Linux i686; es-ES; rv:1.8.1.9) Gecko/20071025 Iceweasel/2.0.0.9
+Mozilla/16.0 (Windows NT 6.1; WOW64; rv:8.0.1)
+Mozilla/2.0 (Compatible; MSIE 3.02; AOL 4.0; Windows 3.1)
+Mozilla/2.0 (Compatible; MSIE 3.0; AOL 4.0; Windows 3.1)
+Mozilla/2.0 (compatible ; MSIE 3.02; Windows CE; PPC; 240x320)
+Mozilla/2.0 (compatible; Ask Jeeves/Teoma)
+Mozilla/2.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)
+Mozilla/2.0 (compatible; Ask Jeeves/Teoma; +http://sp.ask.com/docs/about/tech_crawling.html)
+Mozilla/2.0 (compatible; Elaine/3.0)
+Mozilla/2.0 (compatible; MSIE 3.01; Windows 3.1)
+Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)
+Mozilla/2.0 (compatible; MSIE 3.01; Windows 98)
+Mozilla/2.0 (compatible; MSIE 3.02; Windows 3.1)
+Mozilla/2.0 (compatible; MSIE 3.02; Windows CE; 240x320)
+Mozilla/2.0 (compatible; MSIE 3.02; Windows CE; PPC; 240x320)
+Mozilla/2.0 (compatible; MSIE 3.02; Windows CE; Smartphone; 176x220)
+Mozilla/2.0 (compatible; MSIE 3.03; Windows 3.1)
+Mozilla/2.0 (compatible; MSIE 3.0; Windows 3.1)
+Mozilla/2.0 (compatible; MSIE 3.0; Windows 95)
+Mozilla/2.0 (compatible; MSIE 3.0B; Win32)
+Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT)
+Mozilla/2.0 (compatible; MSIE 4.01; Windows 3.11)
+Mozilla/2.0 (compatible; MSIE 4.0; Windows 98)
+Mozilla/2.0 (compatible; crw)
+Mozilla/2.02 (WinNT; I)
+Mozilla/2.02 [fr] (WinNT; I)
+Mozilla/2.02E (Win95; U)
+Mozilla/2.02Gold (Win95; I)
+Mozilla/3.0 (Macintosh; I; 68K)
+Mozilla/3.0 (Macintosh; I; PPC)
+Mozilla/3.0 (Macintosh; U; PPC Mac OS X; pl-PL)
+Mozilla/3.0 (Vagabondo/2.0 MT; webcrawler@NOSPAMexperimental.net; http://aanmelden.ilse.nl/?aanmeld_mode=webhints)
+Mozilla/3.0 (Win95; I)
+Mozilla/3.0 (Windows NT 5.0; U) Opera 7.01  [en]
+Mozilla/3.0 (Windows NT 5.0; U) Opera 7.10  [de]
+Mozilla/3.0 (Windows NT 6.1; ru-ru; rv:1.9.1.3.) Win32; x86 Firefox/3.5.3 (.NET CLR 2.0.50727)
+Mozilla/3.0 (X11; I; AIX 2)
+Mozilla/3.0 (X11; I; SunOS 5.4 sun4m)
+Mozilla/3.0 (compatible)
+Mozilla/3.0 (compatible; AvantGo 3.2)
+Mozilla/3.0 (compatible; MSIE 3.0; Windows NT 5.0)
+Mozilla/3.0 (compatible; NetPositive/2.1.1; BeOS)
+Mozilla/3.0 (compatible; NetPositive/2.2)
+Mozilla/3.0 (compatible; NetPositive/2.2.2; BeOS)
+Mozilla/3.0 (compatible; WebCapture 1.0; Windows)
+Mozilla/3.0 (compatible; WebCapture 2.0; Windows)
+Mozilla/3.0 (x86 [de] Windows NT 5.0; Sun)
+Mozilla/3.0 (x86 [en] Windows NT 5.1; Sun)
+Mozilla/3.0(DDIPOCKET;JRC/AH-J3001V,AH-J3002V/1.0/0100/c50)CNF/2.0
+Mozilla/3.01 (Macintosh; U; PPC)
+Mozilla/3.01 [de] (Win95; I)
+Mozilla/3.01Gold (Macintosh; I; 68K)
+Mozilla/3.01Gold (X11; I; Linux 2.0.32 i486)
+Mozilla/3.01Gold (X11; I; SunOS 5.5.1 sun4m)
+Mozilla/3.02 [en] (Windows NT 5.1; U)
+Mozilla/3.04 (WinNT; I)
+Mozilla/3.04 (WinNT; U)
+Mozilla/3.04Gold (Macintosh; I; PPC)
+Mozilla/3.04Gold (WinNT; U)
+Mozilla/4.0  (compatible; MSIE 5.5; AOL 5.0; Windows NT 5.0)
+Mozilla/4.0 (BREW 3.1.5; U; en-us; Samsung; PLS_M330; POLARIS/6.1/WAP) MMP/2.0 Configuration/CLDC-1.1
+Mozilla/4.0 (BREW 3.1.5; U; en-us; Sanyo; NetFront/3.5.1/AMB) Boost SCP6760
+Mozilla/4.0 (Compatible; MSIE 4.0)
+Mozilla/4.0 (Compatible; MSIE 4.01; AOL 3.0; Windows 95)
+Mozilla/4.0 (Compatible; MSIE 5.5; Windows NT5.0; Q312461; SV1; .NET CLR 1.1.4322; InfoPath.2)
+Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+Mozilla/4.0 (Compatible; Windows NT 5.1; MSIE 6.0) (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (MSIE 6.0; Windows NT 5.0)
+Mozilla/4.0 (MSIE 6.0; Windows NT 5.1)
+Mozilla/4.0 (MSIE 7.0; Windows NT 6.0)
+Mozilla/4.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16
+Mozilla/4.0 (Macintosh; U; PPC Mac OS X; en-US)
+Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1)
+Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1; .NET CLR 3.0.04506.30)
+Mozilla/4.0 (PDA; PalmOS/sony/model crdb/Revision:1.1.36(de)) NetFront/3.0
+Mozilla/4.0 (PDA; PalmOS/sony/model prmr/Revision:1.1.54 (en)) NetFront/3.0
+Mozilla/4.0 (PDA; SL-C750/1.0,Embedix/Qtopia/1.3.0) NetFront/3.0 	Zaurus C750
+Mozilla/4.0 (PDA; Windows CE/0.9.3) NetFront/3.0
+Mozilla/4.0 (PDA; Windows CE/1.0.1) NetFront/3.0
+Mozilla/4.0 (PS2; PlayStation BB Navigator 1.0) NetFront/3.0
+Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+Mozilla/4.0 (Windows;  MSIE 6.0;  Windows NT 5.1;  SV1; .NET CLR 2.0.50727)
+Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.0)
+Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.2)
+Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 6.0)
+Mozilla/4.0 (Windows; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+Mozilla/4.0 (Windows; U; Windows NT 5.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.33 Safari/532.0
+Mozilla/4.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.59 Safari/525.19
+Mozilla/4.0 (Windows; U; Windows NT 6.0; de-DE) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+Mozilla/4.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.2) Gecko/2010324480 Firefox/3.5.4
+Mozilla/4.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.7) Gecko/2008398325 Firefox/3.1.4
+Mozilla/4.0 (Windows; U; Windows NT; en-Us; rv:2.5.3) Gecko/65158732 Safari/2.2.3
+Mozilla/4.0 (X11; MSIE 6.0; i686; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM)
+Mozilla/4.0 (compatible ; MSIE 6.0; Windows NT 5.1)
+Mozilla/4.0 (compatible- MSIE 6.0- Windows NT 5.1- SV1- .NET CLR 1.1.4322
+Mozilla/4.0 (compatible: FDSE robot)
+Mozilla/4.0 (compatible: MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0; HTC; 7 Trophy)
+Mozilla/4.0 (compatible: Shoula robot)
+Mozilla/4.0 (compatible;  Intel Mac OS X 10.6; rv:2.0b8) Gecko/20100101 Firefox/4.0b8)
+Mozilla/4.0 (compatible;  Vagabondo/2.2; webcrawler at wise-guys dot nl; http://webagent.wise-guys.nl/)
+Mozilla/4.0 (compatible;  Vagabondo/4.0Beta; webcrawler at wise-guys dot nl; http://webagent.wise-guys.nl/; http://www.wise-guys.nl/)
+Mozilla/4.0 (compatible; Arachmo)
+Mozilla/4.0 (compatible; AvantGo 6.0; FreeBSD)
+Mozilla/4.0 (compatible; B-l-i-t-z-B-O-T)
+Mozilla/4.0 (compatible; BlitzBot)
+Mozilla/4.0 (compatible; Cerberian Drtrs Version-3.2-Build-0)
+Mozilla/4.0 (compatible; Cerberian Drtrs Version-3.2-Build-1)
+Mozilla/4.0 (compatible; IBrowse 2.3; AmigaOS4.0)
+Mozilla/4.0 (compatible; ICS)
+Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.0 (screen 600x800)
+Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+Mozilla/4.0 (compatible; MSIE 2.0; Windows NT 5.0; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 3.0; Windows NT; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Mac_68K)
+Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 4.01; Digital AlphaServer 1000A 4/233; Windows NT; Powered By 64-Bit Alpha Processor)
+Mozilla/4.0 (compatible; MSIE 4.01; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 3.11)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; DigExt)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; Hotbar 3.0)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; MSN Companion 2.0; 800x600; Compaq)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; HP iPAQ h6300)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; PPC)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; SPV M2000; OpVer 5.31.1.124)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; SPV M700; OpVer 19.123.1.615)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; Sprint:PPC-6700; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Smartphone; 176x220)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Smartphone; 240x320; SPV C600; OpVer 11.1.3.5)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:PPC-6700; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:PPC-i830; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i320; Smartphone; 176x220)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i830; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip320; Smartphone; 176x220)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip830w; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint; SCH-i830; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint;PPC-i830; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)
+Mozilla/4.0 (compatible; MSIE 4.0; SmartPhone; Symbian OS/1.1.0) Netfront/3.1
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 95; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 98 )
+Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows NT; ....../1.0 )
+Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 4.5; Windows 98; )
+Mozilla/4.0 (compatible; MSIE 4.5; Windows NT 5.1; .NET CLR 2.0.40607)
+Mozilla/4.0 (compatible; MSIE 5.00; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.01; AOL 4.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; MSIECrawler)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461; T312461)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.1)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.3; Wanadoo 5.5)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.6)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0; Hotbar 4.1.8.0)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.4)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 3.0)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 4.2.8.0)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; MSIECrawler)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; DigExt)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; Hotbar 4.1.8.0)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; YComp 5.0.0.0)
+Mozilla/4.0 (compatible; MSIE 5.05; Windows 98; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 3.51)
+Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 4.0)
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 4.0; Windows 98; DigExt)
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 5.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 5.0; Windows 95; DigExt)
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 5.0; Windows 98; DigExt)
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 6.0; Windows 98; DigExt; YComp 5.0.2.5)
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.0-4GB i686) Opera 5.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.0-64GB-SMP i686) Opera 6.03  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.10-4GB i686) Opera 6.11  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18 i686) Opera 6.11  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.03  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.1  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-rmk7-pxa3-embedix armv5tel; 480x640) Opera 6.0 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19 i686) Opera 6.1  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19-16mdk i686) Opera 6.11  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19-4GB i686) Opera 6.03  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19-4GB i686) Opera 6.11  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-13.7 i686) Opera 6.11  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-4GB i686) Opera 6.03  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-4GB i686) Opera 6.12  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-686 i686) Opera 6.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.4 i686) Opera 6.11  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.4-4GB i686) Opera 5.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Linux) Opera 5.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 5.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 5.12  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 6.0  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 6.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 6.0 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; PalmOS) PLink 2.56b
+Mozilla/4.0 (compatible; MSIE 5.0; Series80/2.0 Nokia9300/05.22 Profile/MIDP-2.0 Configuration/CLDC-1.1)
+Mozilla/4.0 (compatible; MSIE 5.0; Series80/2.0 Nokia9500/4.51 Profile/MIDP-2.0 Configuration/CLDC-1.1)
+Mozilla/4.0 (compatible; MSIE 5.0; SunOS 5.8 sun4u) Opera 5.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; SunOS 5.9 sun4u; X11)
+Mozilla/4.0 (compatible; MSIE 5.0; Symbian )S)
+Mozilla/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.11  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.11  [fr]
+Mozilla/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.12  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.03  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.03 [ru]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.04  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.04  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 3.1)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) Opera 6.01 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) Opera 6.02  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) Opera 6.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) VoilaBot BETA 1.2 (http://www.voila.com/)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [it]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [fr]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [fr]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [it]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.03  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.04  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.04  [pl]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.5; YComp 5.0.0.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6; yplus 1.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt\)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; Hotbar 3.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; YComp 5.0.2.4)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98;)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.11 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.12  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.12  [it]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 6.0  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 6.01  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 6.01  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 5.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 5.11  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 5.12  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.0  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.01  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.01  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.01 [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.04  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.1) Opera 5.02  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.2; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.9; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 3.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 4.1.8.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.0.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.5)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.6)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT;)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.0  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.0  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [et]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [it]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [en]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [fr]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.06  [de]
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.06  [fr]
+Mozilla/4.0 (compatible; MSIE 5.0b1; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.12; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.13; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.14; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.15; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.16; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC Mac OS; en)
+Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.21; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.22; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC) Opera 7.54  [en]
+Mozilla/4.0 (compatible; MSIE 5.23; Macintosh; PPC) Escape 5.1.8
+Mozilla/4.0 (compatible; MSIE 5.2; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.50; Windows 95; SiteKiosk 4.8)
+Mozilla/4.0 (compatible; MSIE 5.50; Windows 98; SiteKiosk 4.8)
+Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8)
+Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8; SiteCoach 1.0)
+Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.9; SiteCoach 1.0)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 4.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 4.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows 98; Win 9x 4.90)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows 98; YComp 5.0.0.0)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 98; Win 9x 4.90)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 7.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 9.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95; BCD2000)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Crazy Browser 1.x.x)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; BTinternet V8.1)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows CE; PPC; 240x320)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; .NET CLR 1.0.2914)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; obot)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; H010818)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; KKman2.0)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322) (Compatible;  ;  ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; FDM)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.5)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.1; chromeframe/12.0.742.100; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT) (compatible; MSIE 5.5; Windows NT)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT5)
+Mozilla/4.0 (compatible; MSIE 5.5;)
+Mozilla/4.0 (compatible; MSIE 5.5b1; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 6.0)
+Mozilla/4.0 (compatible; MSIE 6.01; Windows NT 6.0)
+Mozilla/4.0 (compatible; MSIE 6.0; ; Linux armv5tejl; U) Opera 8.02 [en_US] Maemo browser 0.4.31 N770/SU-18
+Mozilla/4.0 (compatible; MSIE 6.0; ; Linux i686) Opera 7.50 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; ; Linux x86_64) Opera 7.50 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows 98; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows 98; Win 9x 4.90)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 6.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98; Win 9x 4.90)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98; Win 9x 4.90; (R1 1.3))
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98; Win 9x 4.90; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; FunWebProducts)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Hotbar 4.1.7.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Hotbar 4.2.8.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Q312461)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Q312461; YComp 5.0.0.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; YComp 5.0.0.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; YComp 5.0.2.4)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; YComp 5.0.2.6; Hotbar 4.2.8.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; (R1 1.3))
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; FunWebProducts)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; FunWebProducts; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; FunWebProducts; SV1; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; Q312461)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; SV1; (R1 1.3); .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; YComp 5.0.0.0; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows 98; FunWebProducts)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.0; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.0; .NET CLR 2.0.50727; Seekmo 10.0.406.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; MaxiFiles; MaxiFilesTB; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; Q312461; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; MEGAUPLOAD 1.0; HbTools 4.8.4)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; ZangoToolbar 4.8.3)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; FDM)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; Seekmo 10.0.406.0)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; Dealio Toolbar 3.4)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; FunWebProducts)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; ZangoToolbar 4.8.2)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; PeoplePal 6.2)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; ZangoToolbar 4.8.3)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.1; AOLBuild 4334.5006; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows 98)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; FunWebProducts)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; FunWebProducts; (R1 1.5); HbTools 4.7.7)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; PowerSearch 2.07; SV1; FreeprodTB; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.1.4322; HbTools 4.7.1)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; InfoPath.1; HbTools 4.8.0)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; ZangoToolbar 4.8.2)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; HbTools 4.7.0)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.1; Windows NT 5.1;)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.2; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.2; Windows NT 5.1;)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; SV1; (R1 1.5); .NET CLR 2.0.50727; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1;)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.6-standalone; rev1.6; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.7-embedded; rev1.7; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Linux 2.6.26-1-amd64) Lobo/0.98.3
+Mozilla/4.0 (compatible; MSIE 6.0; Linux i686 ; en) Opera 9.70
+Mozilla/4.0 (compatible; MSIE 6.0; Linux i686)
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 2000) Opera 7.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 95) Opera 7.03  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.01  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.02  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.03  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.03  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.02  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.03  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.02  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.0  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.01  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.02 Bork-edition [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.03  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.03  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.02  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.02  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows XP) Opera 7.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSN 2.5; Windows 98)
+Mozilla/4.0 (compatible; MSIE 6.0; MSN 2.5; Windows 98; Win 9x 4.90; FDM)
+Mozilla/4.0 (compatible; MSIE 6.0; Mac_PowerPC; en) Opera 9.24
+Mozilla/4.0 (compatible; MSIE 6.0; Nitro) Opera 8.50 [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Nitro) Opera 8.50 [en
+Mozilla/4.0 (compatible; MSIE 6.0; Nitro) Opera 8.50 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Nitro) Opera 8.50 [es]
+Mozilla/4.0 (compatible; MSIE 6.0; Nitro) Opera 8.50 [fr]
+Mozilla/4.0 (compatible; MSIE 6.0; Nitro) Opera 8.50 [it]
+Mozilla/4.0 (compatible; MSIE 6.0; Nitro) Opera 8.50 [ja]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 1657) Opera 8.60 [ru]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 1665) Opera 8.60 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 1665) Opera 8.60 [fr]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 6329) Opera 8.00 [it]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 6936) Opera 8.50 [zw]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 9399) Opera 8.65 [ja]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 9424) Opera 8.65 [ch]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6630/4.03.38; 6937) Opera 8.50 [es]
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6680/5.04.07; 9399) Opera 8.65 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; TOB 6.05; Windows NT 5.1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; TOB 6.05; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; TOB 6.05; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 6.0; TOB 6.06; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+Mozilla/4.0 (compatible; MSIE 6.0; TOB 6.07; Windows NT 5.1; SV1; GTB6.4; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.97.1
+Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.97.5
+Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.98
+Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.98.2
+Mozilla/4.0 (compatible; MSIE 6.0; Update a; AOL 6.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 7; de) MSIE 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 95; PalmSource; Blazer 3.0) 16;160x160
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.20  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.20  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.23  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.50  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.54u1  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) XX
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; (R1 1.3)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; .NET CLR 1.1.4322; MSN 9.0;MSN 9.1; MSNbMSNI; MSNmen-us; MSNcIA; MPLUS)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; .NET CLR 1.1.4322; ZangoToolbar 4.8.3)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; 1&1 Internet AG by USt)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Crazy Browser 3.4.68; InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; DT)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; DigExt)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; HbTools 4.7.5)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; MSN 8.0; MSNbMSNI; MSNmen-us; MSNcIA)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PalmSource/Palm-D050; Blazer/4.3) 16;320x320)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PalmSource/Palm-D053; Blazer/4.5) 16;320x320 UP.Link/6.3.1.17.0
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PalmSource/Palm-D062; Blazer/4.5) 16;320x320
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PalmSource/Palm-TunX; Blazer/4.3) 16;320x448
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PalmSource/hspr-H102; Blazer/4.0) 16;320x320
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Q312461; .NET CLR 1.1.4322; Lunascape 4.0.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; SYMPA)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Walsrode Online; FunWebProducts)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; .NET CLR 1.1.4322; COM+ 1.0.2204)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; CMS Music Store2 v1.00.12 (Music Store,1033))
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Creative)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Creative; yplus 5.1.02b)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; FunWebProducts)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; FunWebProducts; (R1 1.5))
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; FunWebProducts; .NET CLR 1.1.4322; MSN 9.0;MSN 9.1; MSNbMSNI; MSNmen-us; MSNcOTH)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; H010818; yie6; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; IE5.x/Winxx/EZN/xx)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; MSOCD; T312461)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Q312461)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; YPC 3.0.1; yplus 4.1.00b)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; snprtz|T19138700001462|73010104# #1#4#90)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x4.90)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; YPC 3.2.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; de) Opera 8.02
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; digit_may2002)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en) Opera 8.0
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en) Opera 8.52
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en) Opera 8.53
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; pl) Opera 8.54
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE) Opera
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE) Opera 8.0  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12) /Palm 500v/v0100 UP.Link/6.3.1.13.0
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.5)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.6) (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) Sprint:PPC6800
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.6) PPC; MDA Vario/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.0) USCCHTC6875
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC) Opera 8.65 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x240) Opera 8.60 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x240) Opera 8.65 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.60 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [nl]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [zh-cn]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 320x320) Opera 8.65 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 320x320)Opera 8.65 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; Sprint:PPC-6700) Opera 8.65 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.53  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME; pl) Opera 8.02
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.10  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.11  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.23  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; Girafabot; girafabot at girafa dot com; http://www.girafa.com)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.10  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [fr]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.20  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [ca]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23 [ca]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.50  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.50  [ru]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.51  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.52  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.54  [de]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.54  [pl]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) SEOChat::Bot v1.1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Sleipnir/2.49
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Sleipnir/2.8.1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; (R1 1.1); .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322) Sleipnir/2.8.3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM) Sleipnir/2.8.4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Sleipnir/2.9.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; SpamBlockerUtility 4.8.4; PeoplePal 3.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; AM Browser 2.0.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; Crazy Browser 2.0.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; Lunascape 2.1.3)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; Lunascape 6.1.5.21576)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; Sleipnir/2.8.5)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2.0.50727; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2.0.50727; Lunascape 5.0 alpha1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; APC; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50215; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; AT&T CSM8.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; DT)
