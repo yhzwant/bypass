@@ -1,6 +1,6 @@
 var cloudscraper = require('cloudscraper');
 var request=require('request');
-var randomstring = require("randomstring");
+var randomstring = require("random-string");
 
 var args = process.argv.slice(2);
 
